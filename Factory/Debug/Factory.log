@@ -1,0 +1,4 @@
+﻿  factory.cpp
+f:\test_projects\factory\factory.cpp(63): warning C4715: “ShoesFactory::CreateShoes”: 不是所有的控件路径都返回值
+  Factory.vcxproj -> F:\TEST_Projects\Debug\Factory.exe
+  Factory.vcxproj -> F:\TEST_Projects\Debug\Factory.pdb (Full PDB)

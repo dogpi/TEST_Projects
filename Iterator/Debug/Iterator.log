@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\test_projects\iterator\main.cpp(49): warning C4172: 返回局部变量或临时变量的地址
+  Iterator.vcxproj -> F:\TEST_Projects\Debug\Iterator.exe
+  Iterator.vcxproj -> F:\TEST_Projects\Debug\Iterator.pdb (Full PDB)

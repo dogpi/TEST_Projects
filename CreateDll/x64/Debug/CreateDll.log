@@ -1,0 +1,2 @@
+﻿     正在创建库 E:\GitHub\TEST_Projects\x64\Debug\CreateDll.lib 和对象 E:\GitHub\TEST_Projects\x64\Debug\CreateDll.exp
+LINK : fatal error LNK1561: 必须定义入口点

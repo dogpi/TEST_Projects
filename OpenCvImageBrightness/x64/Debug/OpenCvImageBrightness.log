@@ -1,0 +1,13 @@
+﻿生成启动时间为 2021/1/19 13:47:07。
+     1>项目“E:\GitHub\TEST_Projects\OpenCvImageBrightness\OpenCvImageBrightness.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv4.1\include /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GitHub\TEST_Projects\x64\Debug\OpenCvImageBrightness.exe" /NOLOGO /LIBPATH:C:\opencv4.1\x64\vc15\bin /LIBPATH:C:\opencv4.1\x64\vc15\lib opencv_world410d.lib opencv_world410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"E:\GitHub\TEST_Projects\x64\Debug\OpenCvImageBrightness.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GitHub\TEST_Projects\x64\Debug\OpenCvImageBrightness.lib" /MACHINE:X64 x64\Debug\main.obj
+         OpenCvImageBrightness.vcxproj -> E:\GitHub\TEST_Projects\x64\Debug\OpenCvImageBrightness.exe
+     1>已完成生成项目“E:\GitHub\TEST_Projects\OpenCvImageBrightness\OpenCvImageBrightness.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.52

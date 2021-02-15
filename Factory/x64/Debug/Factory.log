@@ -1,0 +1,3 @@
+﻿  factory.cpp
+e:\github\test_projects\factory\factory.cpp(63): warning C4715: “ShoesFactory::CreateShoes”: 不是所有的控件路径都返回值
+  Factory.vcxproj -> E:\GitHub\TEST_Projects\x64\Debug\Factory.exe

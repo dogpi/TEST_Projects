@@ -1,4 +1,4 @@
-﻿生成启动时间为 2021/1/19 13:47:07。
+﻿生成启动时间为 2021/3/12 13:32:27。
      1>项目“E:\GitHub\TEST_Projects\OpenCvImageBrightness\OpenCvImageBrightness.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv4.1\include /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
@@ -10,4 +10,4 @@
 
 生成成功。
 
-已用时间 00:00:01.52
+已用时间 00:00:01.68
